@@ -1,4 +1,4 @@
-n# 🌿 MayanCraft: Redescubre la Civilización Maya
+# 🌿 MayanCraft: Redescubre la Civilización Maya
 *Un mod para Minecraft que revive la mística, arquitectura y legado de la antigua cultura maya.*
 
 [Banner representativo]
