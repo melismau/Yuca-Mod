@@ -30,7 +30,7 @@
 ## ⚠️ Requisitos
 - Minecraft Java Edition
 - Forge 1.xx.x o superior
-- Memoria RAM recomendada: 4GB+
+- Memoria RAM recomendada: [TBD]
 
 ## 🧠 Sobre el mod
 Este mod fue creado con el objetivo de rendir homenaje a la civilización maya y promover el conocimiento sobre su cultura, arquitectura, mitología y logros. No pretende ser una representación 100% histórica, pero sí respeta e inspira elementos reales de su legado.
