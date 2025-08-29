@@ -44,7 +44,7 @@ Este mod fue creado con el objetivo de rendir homenaje a la civilización maya y
 
 ## 📬 Contacto y soporte
 ¿Encontraste un bug o tienes sugerencias?  
-Puedes abrir un *issue* en este repositorio o contactarme vía:
+Puedes abrir un *issue* en este repositorio o contactarnos vía:
 - Discord: [TBD]
 
 ## 📜 Licencia
