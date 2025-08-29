@@ -49,5 +49,6 @@ Puedes abrir un *issue* en este repositorio o contactarme vía:
 
 ## 📜 Licencia
 Este mod se distribuye bajo la licencia [TBD]
+
 ---
 **¡Gracias por jugar y apoyar al desarrollo de MayanCraft!**
