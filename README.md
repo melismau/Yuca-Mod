@@ -1,4 +1,4 @@
-# 🌿 MayanCraft: Redescubre la Civilización Maya
+n# 🌿 MayanCraft: Redescubre la Civilización Maya
 *Un mod para Minecraft que revive la mística, arquitectura y legado de la antigua cultura maya.*
 
 [Banner representativo]
@@ -11,12 +11,12 @@ Creamos este mod con la intención de revitalizar el interés por una de las cul
 - Nuevos cultivos: maíz, cacao, amaranto
 - Nuevos mobs inspirados en la mitología maya:
   - Aluxo'ob
-  - Nahual
-  - Chaneques
+  - Wayob
+  - Y más...
 
 ## 🚧 Ideas para el futuro
 - Nuevos bloques decorativos inspirados en la arquitectura y glifos mayas
-- Nuevas armas y herramientas tradicionales: macuahuitl, lanza de obsidiana
+- Nuevas armas y herramientas tradicionales
 - Invocación e interacción con deidades mayas
 
 ## ⚠️ Requisitos
